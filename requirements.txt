@@ -1,0 +1,9 @@
+#dependencies required for model use 
+
+torch>=2.1
+torchvision>=0.16
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
